@@ -1,3 +1,8 @@
+# phpdotenv - hide sensitive credentials
+# https://github.com/vlucas/phpdotenv
+.env
+
+# Composer
 composer.phar
 /vendor/
 
