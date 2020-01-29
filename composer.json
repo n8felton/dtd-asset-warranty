@@ -1,0 +1,18 @@
+{
+  "name": "n8felton/dtd-asset-warranty",
+  "description": "PHP library for accessing the Dell TechDirect Asset and Warranty Services",
+  "license": "MIT",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require": {
+    "league/oauth2-client": "^2.4",
+    "vlucas/phpdotenv": "^4.1",
+    "tcdent/php-restclient": "^0.1.7"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5"
+  }
+}
